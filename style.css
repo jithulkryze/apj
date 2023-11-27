@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(192, 201, 248);
+}
+
+h1{
+    color: rgb(25, 39, 84);
+    
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.container1 img{
+    border-radius: 60%;
+
+   margin-left: 100px;
+    margin-top: 90px;
+}
+.container1 h1{
+
+
+    margin-left: 35%;
+    margin-top: -40px;
+    font-size: 30px;
+}
+.container1 h3{
+
+    margin-left: 60%;
+    margin-top: -22px;
+}
+.container1 h2{
+    font-size: 35px;
+    margin-left:100px ;
+
+    
+}
+.container1 p{
+    margin-left: 100px;
+}
+.container1 h4{
+    margin-left: 100px;
+}
+.container1 ul{
+    margin-left: 100px;
+
+}
+.container1 h5{
+    margin-left: 400px;
+    
+}
+    
